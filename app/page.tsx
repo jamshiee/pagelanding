@@ -1,5 +1,6 @@
 import HeroSection from "@/components/landing-page/hero-section";
 import Navbar from "@/components/landing-page/navbar";
+import TravelListings from "@/components/landing-page/travel-listings";
 
 export default function Home() {
   return (
@@ -8,6 +9,7 @@ export default function Home() {
         <Navbar />
       </div>
       <HeroSection />
+      <TravelListings />
     </div>
   );
 }
