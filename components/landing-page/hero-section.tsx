@@ -18,7 +18,7 @@ const carouselData = [
     title: "Discover the world, one unforgettable journey at a time",
     subtitle: "Dream destinations, unforgettable experiences, book now.",
     backgroundImage:
-      "https://images.nhttdubai.com/banners/pexels-pixabay-2196921-1.jpg",
+      "https://images.nhttdubai.com/banners/pexels-jdgromov-4781951-2.jpg",
     alt: "Beautiful travel destination landscape",
   },
   {
@@ -35,7 +35,7 @@ const carouselData = [
     subtitle:
       "From exotic beaches to bustling cities, find your perfect getaway.",
     backgroundImage:
-      "https://images.nhttdubai.com/banners/pexels-pixabay-2196921-1.jpg",
+      "https://images.nhttdubai.com/banners/pexels-horacio-lander-1239977167-27644722.jpg",
     alt: "Beach landscape background",
   },
 ];

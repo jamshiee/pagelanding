@@ -1,9 +1,5 @@
 import { Button } from "@/components/ui/button";
-import {
-  ChevronDown,
-  Heart,
-  UserRound
-} from "lucide-react";
+import { ChevronDown, Heart, UserRound } from "lucide-react";
 import Image from "next/image";
 
 export default function Navbar() {
