@@ -1,10 +1,13 @@
 import HeroSection from "@/components/landing-page/hero-section";
 import Navbar from "@/components/landing-page/navbar";
-import Image from "next/image";
 
 export default function Home() {
-  return <div className="h-screen">
-    <Navbar/>
-    <HeroSection/>
-  </div>;
+  return (
+    <div className="min-h-screen relative">
+      <div className="absolute top-0 left-0 w-full z-20">
+        <Navbar />
+      </div>
+      <HeroSection />
+    </div>
+  );
 }
